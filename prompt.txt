@@ -1,0 +1,7 @@
+Build an entry for the make.fun bounty u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5 (The Excuse That Almost Works, $2, top 8, FREE, no social).
+
+The program writes one line of text — the excuse a gamer texts the boss to skip work on GTA 6 launch week, at most 20 words — to /output/entry.txt. Gate: UTF-8, 1-140 characters, not only whitespace. Judge (pairwise, tired manager): on-subject first, then almost believable (real, specific, boring workplace detail), funny from its own logic, reads like a hurried text, fresh angle (not dead grandmother, flat tyre, or sudden fever).
+
+Entrypoint must be main.py at the repo root, written fresh in this session and revised in at least two separate edit turns. All counted lines authored at least 30%. No copying old directories, no re-typing code ever seen. Repo: entrypoint + README (3 live make.fun badges + footer ?ref=h379tqrk) + LICENSE (MIT + SPDX line). Respect MAKEFUN_OUTPUT_DIR; write directly with open("wb") + chmod 0644; no tempfile/mkstemp; no removing /output; stdlib only.
+
+Build + local check + commit + push. Stop before bundle/submit.
